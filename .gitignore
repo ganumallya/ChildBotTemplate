@@ -1,0 +1,7 @@
+#node_modules/
+*.js.map
+package-lock.json
+.env
+bot/
+Logs/
+node_modules/botbuilder/lib/bots/ChatConnector.js
